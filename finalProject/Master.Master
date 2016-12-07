@@ -1,0 +1,27 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Master.master.cs" Inherits="finalProject.Master" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    
+    <meta name="author" content="Ahmed Jamil" />
+    <link href="_css/master.css" rel="stylesheet" />
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div id="wrapper">
+        <header>
+            <asp:Image ID="imgLogo" runat="server"  ImageUrl="~/_images/sherlogotaglinelgcolor.png" Width="772px"/>
+
+        </header>
+        <section id="main">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder" runat="server"/>
+        </section>
+    </div>
+    </form>
+</body>
+</html>
