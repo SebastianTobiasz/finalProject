@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "finalProject", "finalProject\finalProject.csproj", "{B5A1146E-B7C1-4D9B-B347-5872AED1E082}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiEXample2", "..\..\..\..\..\..\Documents\WebApiExample2\WebApiEXample2\WebApiEXample2.csproj", "{4CF731A4-5A69-47CD-AEDA-C91B4C94D50D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalProject_old", "..\..\..\..\..\..\Documents\bookStore\FinalProject_old.csproj", "{AA7DB7F7-AF85-4BDE-B64D-1B557AD61345}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{B5A1146E-B7C1-4D9B-B347-5872AED1E082}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5A1146E-B7C1-4D9B-B347-5872AED1E082}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5A1146E-B7C1-4D9B-B347-5872AED1E082}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CF731A4-5A69-47CD-AEDA-C91B4C94D50D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CF731A4-5A69-47CD-AEDA-C91B4C94D50D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CF731A4-5A69-47CD-AEDA-C91B4C94D50D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CF731A4-5A69-47CD-AEDA-C91B4C94D50D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA7DB7F7-AF85-4BDE-B64D-1B557AD61345}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA7DB7F7-AF85-4BDE-B64D-1B557AD61345}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA7DB7F7-AF85-4BDE-B64D-1B557AD61345}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA7DB7F7-AF85-4BDE-B64D-1B557AD61345}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
